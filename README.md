@@ -1,6 +1,10 @@
 # pangeo-et
 PANGEO tools and documentation for ET
 
+## Notes
+
+conda install make 
+
 ## References
 
 https://examples.dask.org/xarray.html

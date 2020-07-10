@@ -1,0 +1,4 @@
+AWS_SECRET_ACCESS_KEY=vbk8TxKnf8KE6U8N5UmZ9CCbqjYBs/eIKwxDG6PN
+AWS_WEB_IDENTITY_TOKEN_FILE=/var/run/secrets/eks.amazonaws.com/serviceaccount/token
+AWS_ACCESS_KEY_ID=ASIAVPD26LM2BDZZTZXX
+AWS_ROLE_ARN=arn:aws:iam::376067480372:role/eks-pangeo-node
