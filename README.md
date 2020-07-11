@@ -4,6 +4,8 @@ PANGEO tools and documentation for ET
 ## Notes
 
 conda install make 
+conda install graphviz 
+
 
 ## References
 
